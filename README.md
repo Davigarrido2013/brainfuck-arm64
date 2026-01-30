@@ -72,9 +72,8 @@ C
 
 🧩 Registradores principais
 
-|Registrador|Função|
-|------|--------------------------------------------------|
-
+| Registrador | Função |
+|------------|--------------------------------------------------|
 | X1 | Ponteiro da fita (memoria) |
 | X9 | Índice da entrada Brainfuck |
 | X30 | Link Register – endereço de retorno |
