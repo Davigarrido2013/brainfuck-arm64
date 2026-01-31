@@ -34,7 +34,7 @@ _start:
     mov x8, 63
     mov x0, 0
     adr x1, entrada
-    mov x2, 2048
+    mov x2, 32768
     svc 0
 
     ldrb w10, [x1]
@@ -87,7 +87,7 @@ arquivo:
     mov x8, 63
     mov x0, x9
     adr x1, entrada
-    mov x2, 2048
+    mov x2, 32768
     svc 0
 
     mov x8, 57
