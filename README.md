@@ -12,7 +12,7 @@ Este projeto implementa um **interpretador Brainfuck completo** em **Assembly AR
 
 - Entrada de arquivo ou teclado  
 - Loops aninhados `[ ]` totalmente funcionais  
-- Fita de memória de 1024 bytes  
+- Fita de memória de 30000 bytes  
 - Mensagens de erro detalhadas  
 - Saída diretamente via syscalls  
 
