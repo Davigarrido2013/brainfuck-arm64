@@ -17,8 +17,8 @@
     quebra: .byte 10
 
 .section .bss
-    memoria: .skip 1024
-    entrada: .skip 2048
+    memoria: .skip 30000
+    entrada: .skip 32768
     file: .skip 64
 
 .section .text
